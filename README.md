@@ -1,4 +1,4 @@
-# 📊 NoMoreChurn – Telco Risk Intelligence
+# **NoMoreChurn – Telco Risk Intelligence**
 
 **Predict. Prevent. Retain.**  
 A full-stack churn prediction and risk intelligence system powered by machine learning and Power BI.
@@ -68,48 +68,48 @@ NoMoreChurn-Telco-Risk-Intelligence/
 
 ### 🧾 Sheet 1: Churn Overview & Model Performance
 
-- ✅ KPI Cards:
+- KPI Cards:
   - Total Customers (Test)
   - Churned Customers (Actual)
   - Predicted Churned Customers
   - Model Accuracy
-- ✅ Actual vs Predicted Churn (Clustered bar)
-- ✅ Confusion Matrix (TP, FP, TN, FN)
-- ✅ Precision & Recall Cards
-- ✅ Gauge/Pie: Actual vs Predicted Churn Rates
+- Actual vs Predicted Churn (Clustered bar)
+- Confusion Matrix (TP, FP, TN, FN)
+- Precision & Recall Cards
+- Gauge/Pie: Actual vs Predicted Churn Rates
 
 ---
 
 ### 🧾 Sheet 2: Churn Analysis by Customer Attributes
 
-- ✅ Churn Rate by:
+- Churn Rate by:
   - Contract Type
   - Payment Method
   - Tenure Bins (0–12, 13–24…)
-- ✅ Scatter: MonthlyCharges vs TotalCharges (color = churn)
-- ✅ Churn Rate by:
+- Scatter: MonthlyCharges vs TotalCharges (color = churn)
+- Churn Rate by:
   - Gender (Pie)
   - Partner & Dependents (100% bar)
-- ✅ Churn Persona Card:
+- Churn Persona Card:
   - Filters by customer → shows tenure, charges, churn probability
 
 ---
 
 ### 🧾 Sheet 3: Churn Risk & Ticket Impact
 
-- ✅ Table: Top 10 High-Risk Customers (churn prob., tenure, charges)
-- ✅ Histogram: Churn Probability Bands
-- ✅ Feature Histograms: Risk by key attributes
+- Table: Top 10 High-Risk Customers (churn prob., tenure, charges)
+- Histogram: Churn Probability Bands
+- Feature Histograms: Risk by key attributes
 
 ---
 
 ## 📊 Key Evaluation Metrics
 
-- ✅ Model Accuracy: >85%
-- ✅ AUC-ROC Curve Analysis
-- ✅ Precision & Recall >75%
-- ✅ Confusion Matrix Breakdown
-- ✅ Prediction Band Distribution
+- Model Accuracy: >85%
+- AUC-ROC Curve Analysis
+- Precision & Recall >75%
+- Confusion Matrix Breakdown
+- Prediction Band Distribution
 
 ---
 
