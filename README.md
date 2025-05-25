@@ -127,7 +127,7 @@ NoMoreChurn-Telco-Risk-Intelligence/
 
 - 📄 [High Level Design (HLD)](./reports/High_Level_Design.pdf)
 - 📄 [Low Level Design (LLD)](./reports/Low_Level_Design.pdf)
-- 📄 [Architecture Document](./reports/Architecture_Document.pdf)
+- 📄 [Architecture Document](https://github.com/SoumenB45/NoMoreChurn-Telco_Risk_Intelligence/blob/main/Documentation/Architecture%20Design%20Document.pdf)
 - 📄 [Wireframe Document](./reports/Architecture_Document.pdf)
 - 📄 [Final Project Report](./reports/Final_Project_Report.pdf)
 
